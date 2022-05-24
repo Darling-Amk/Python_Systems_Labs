@@ -17,3 +17,4 @@ http клиент
 tsp клиент
 
 многопоточный tsp echo сервер
+![image](https://user-images.githubusercontent.com/78871632/170062887-cd38eaf6-38a9-480d-bcba-5c97208f7462.png)
